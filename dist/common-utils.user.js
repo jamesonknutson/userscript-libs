@@ -5,7 +5,7 @@
 // @version      1.0
 // @license      MIT
 // @match        *://*/*
-// @downloadURL  https://raw.githubusercontent.com/jamesonknutson/quick-userscripts/TagPro-UserscriptLibrary/master/tpul.lib.js
+// @downloadURL  https://github.com/jamesonknutson/userscript-libs/raw/refs/heads/master/src/common-utils.user.js
 // @supportURL   https://www.reddit.com/message/compose/?to=Wilcooo
 // @grant        GM_setValue
 // @grant        GM_getValue
